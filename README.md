@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gautam Rana
 - 👀 I’m interested to do Coding
-- 🌱 I’m currently learning on FullStack Developement
-- 💞️ My Skills are core java, SQL, HTML, CSS, JavaScript
+- 🌱 I’m Java FullStack Developer.
+- 💞️ My Skills are core java, SQL, HTML, CSS, JavaScript, J2EE. 
 - 📫 gautamrana201201@gmail.com
 
 <!---
